@@ -22,12 +22,12 @@ const manish = {
     currentlyWorking: " Niche Projects, Corporate / Startup",
     lifePhilosophy: "Build > Talk",
     funFact: "Code is like humour. When you have to explain it, it's bad.",
-    askMeAbout: ["Data Analytics", "Machine Learning", "GenAI", "Open Source ☭"],
+    askMeAbout: ["Analytics", "Machine Learning", "GenAI", "Open Source ☭"],
     technologies: {
         honestly: "Agnostic; anything & everything if I need to get something done."
     },
     socials: {
-        email: "manish20wasx@gmail.com",
+        email: "manish20was@gmail.com",
         x: "x.com/manishbiswasx",
         linkedin: "linkedin.com/in/m20was"
     }
