@@ -1,4 +1,4 @@
-# Manish Dilip Biswas
+# Manish Biswas
 **Data-Business Analyst ** 💫
 
 <picture>
