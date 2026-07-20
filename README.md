@@ -1,5 +1,5 @@
 # Manish Dilip Biswas
-**Data & Business Intelligence Analyst** 💫
+**Data-Business Analyst ** 💫
 
 <picture>
   <source
