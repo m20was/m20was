@@ -35,9 +35,6 @@ const manish = {
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m20was) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish20was@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/manish20was)
-
-Detail-oriented professional with an MBA in Business Analytics and a B.E. in Information Technology. Passionate about uncovering data-driven insights, building robust models, and developing scalable applications. Combining strong analytical skills with a solid technical foundation in Python, Java, SQL, and Power BI to drive business growth and operational efficiency.
-
 ---
 
 # 💻 Tech Stack:
