@@ -1,7 +1,20 @@
 # Manish Dilip Biswas
 **Data & Business Intelligence Analyst** 💫
 
-![Pacman Graph](https://githubusercontent.com)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
+  />
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m20was) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish20was@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/manish20was)
 
