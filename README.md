@@ -14,7 +14,7 @@ const manish = {
     currentlyWorking: "Niche Projects, Corporate / Startup",
     lifePhilosophy: "Build > Talk",
     funFact: "Code is like humour. When you have to explain it, it's bad.",
-    askMeAbout: ["Business Analytics", "Machine Learning", "GenAI", "Open Source ☭"],
+    askMeAbout: ["Analytics", "GenAI", "Open Source ☭"],
     technologies: {
         honestly: "Agnostic; anything & everything if I need to get something done."
     },
