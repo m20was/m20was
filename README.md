@@ -2,12 +2,6 @@
 **Data-Business Analyst ** 💫
 
 <!-- [game-name] -->
-### 🎮 Pacman Contribution Graph
-
-#### Light Mode
-<img src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-
-#### Dark Mode
 <img src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph dark">
 
 <pre>
