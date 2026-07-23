@@ -1,5 +1,5 @@
 # Manish Biswas
-**Data-Business Analyst ** 💫
+**Data/Business Analyst ** 💫
 
 <!-- [game-name] -->
 <picture>
