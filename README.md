@@ -1,20 +1,10 @@
 # Manish Biswas
 **Data-Business Analyst ** 💫
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
-  />
-</picture>
+<!-- [game-name] -->
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph.svg">
 
 <pre>
 const manish = {
