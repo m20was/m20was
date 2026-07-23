@@ -19,7 +19,7 @@
 <pre>
 const manish = {
     location: "Somewhere writing code at 3 AM ☕",
-    currentlyWorking: " Niche Projects, Corporate / Startup",
+    currentlyWorking: "Niche Projects, Corporate / Startup",
     lifePhilosophy: "Build > Talk",
     funFact: "Code is like humour. When you have to explain it, it's bad.",
     askMeAbout: ["Business Analytics", "Machine Learning", "GenAI", "Open Source ☭"],
@@ -32,6 +32,7 @@ const manish = {
         linkedin: "linkedin.com/in/m20was"
     }
 };
+
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m20was) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish20was@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/manish20was)
