@@ -2,7 +2,11 @@
 **Data-Business Analyst ** 💫
 
 <!-- [game-name] -->
-<img src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph dark">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-light.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 <pre>
 const manish = {
