@@ -5,10 +5,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-light.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg" width="100%">
 </picture>
 
-<pre>
+```javascript
 const manish = {
     location: "Somewhere writing code at 3 AM ☕",
     currentlyWorking: "Niche Projects, Corporate / Startup",
@@ -24,7 +24,7 @@ const manish = {
         linkedin: "linkedin.com/in/m20was"
     }
 };
-</pre>
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m20was) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish20was@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/manish20was)
 ---
