@@ -1,5 +1,5 @@
 # Manish Biswas
-**Data/Business Analyst ** 💫
+**Product Analyst | Analytics Engineer | AI & GenAI** 💫
 
 <!-- [game-name] -->
 <picture>
