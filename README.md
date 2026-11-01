@@ -35,7 +35,7 @@ const manish = {
 
 * **Languages:** Python, R, SQL, Java 25+, C++, JS, HTML/CSS | **Databases:** MySQL, MongoDB
 * **Libraries:** NumPy, Pandas, Scikit-learn, Seaborn, Plotly
-* **Data Engg:** MS Fabric, Databricks (PySpark, Spark SQL), Snowflake, dbt, Apache Airflow, ETL/ELT, Data Modeling, Feature Engineering
+* **Data Engg:** MS Fabric, Databricks (PySpark, Spark SQL), Snowflake, dbt, Apache Airflow, ETL/ELT, Data Modeling
 * **Cloud:** AWS (S3), Azure (Blob Storage), GCP (BigQuery, Looker)
 * **GenAI & LLMOps:** RAG, Text-to-SQL, FastAPI, Streamlit, Docker, UV, CI/CD (GitHub Actions)
 * **Business:** Statistics, Machine Learning, EDA, Power BI (DAX), Tableau, Excel, A/B Testing, Salesforce (Apex, SOQL)
